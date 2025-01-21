@@ -8,7 +8,6 @@ import {
   Globe,
   Smartphone,
 } from "lucide-react";
-import { Card, CardHeader, CardTitle, CardContent } from "./ui/card";
 
 export const LandingPage = () => {
   const whatsappNumber = "+2348115333313";
