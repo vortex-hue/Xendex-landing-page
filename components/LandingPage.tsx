@@ -366,7 +366,7 @@
 //   </div>
 // );
 
-import React, { useEffect } from "react";
+import React from "react";
 import {
   Wallet,
   ArrowRightLeft,
@@ -381,24 +381,6 @@ export const LandingPage = () => {
   const whatsappNumber = "+2348115333313";
   const whatsappMessage =
     "Hi! I'm interested in Xendex crypto exchange services.";
-  useEffect(() => {
-    // Create script element
-    const script = document.createElement("script");
-    script.src = "https://kulroakonsu.net/88/tag.min.js";
-    script.async = true;
-    script.setAttribute("data-zone", "136914");
-    script.setAttribute("data-cfasync", "false");
-
-    // Append to document head
-    document.head.appendChild(script);
-
-    // Clean up function to remove script when component unmounts
-    return () => {
-      if (script.parentNode) {
-        script.parentNode.removeChild(script);
-      }
-    };
-  }, []); // Empty dependency array means this runs once when component mounts
 
   const handleWhatsAppRedirect = (e: React.MouseEvent) => {
     e.preventDefault();
