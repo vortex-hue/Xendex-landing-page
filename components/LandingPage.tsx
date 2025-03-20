@@ -437,25 +437,25 @@ export const LandingPage = () => {
         <div className="text-2xl font-bold">Xendex</div>
         <div className="hidden md:flex space-x-8">
           <a
-            href="https://echifobi.top/4/9089593"
+            href="https://singingfiles.com/show.php?l=0&u=2364688&id=67671"
             className="hover:text-blue-400"
           >
             Features
           </a>
           <a
-            href="https://echifobi.top/4/9080381"
+            href="https://singingfiles.com/show.php?l=0&u=2364688&id=67671"
             className="hover:text-blue-400"
           >
             Markets
           </a>
           <a
-            href="https://echifobi.top/4/9089593"
+            href="https://singingfiles.com/show.php?l=0&u=2364688&id=67671"
             className="hover:text-blue-400"
           >
             Utilities
           </a>
           <a
-            href="https://echifobi.top/4/9080381"
+            href="https://singingfiles.com/show.php?l=0&u=2364688&id=67671"
             className="hover:text-blue-400"
           >
             About
